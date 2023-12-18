@@ -26,7 +26,8 @@ import "./styles.css";
 const siteProps = {
   //name: "Alexandrie Grenier",
   name: "Ethan Wang",
-  title: "Web Designer & Content Creator",
+  //title: "Web Designer & Content Creator",
+  title: "OS Engineer & TinyML Developer",
   // email: "alex@example.com",
   email: "xinxingwang@acm.com",
   //gitHub: "microsoft",
