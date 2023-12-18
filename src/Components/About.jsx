@@ -44,8 +44,10 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
+/** const detailOrQuote =
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."; */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about tackling challenges in the realms of operating system development and TinyML, seeking innovative solutions that push the boundaries of technology. With a background in these areas, I am dedicated to exploring novel methods and advancements that democratize technology accessibility for all.";
 
 const About = () => {
   return (
