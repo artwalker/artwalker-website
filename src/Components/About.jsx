@@ -24,19 +24,26 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Software Engineering graduate student at North China Electric Power University. My primary interests lie in the fields of operating systems and TinyML, where I strive to create efficient and innovative solutions.";
+  //"I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  // "Web design",
+  // "User experience",
+  // "Inclusive design",
+  // "Focus group testing",
+  // "Mobile user interfaces",
+  // "Graphic design",
+  "Operating Systems Design",
+  "TinyML Development",
+  "Embedded Systems Development",
+  "System Architecture",
+  "Machine Learning Applications",
+  "Efficient Computing",
 ];
 
 /**
