@@ -27,7 +27,7 @@ const siteProps = {
   //name: "Alexandrie Grenier",
   name: "Ethan Wang",
   //title: "Web Designer & Content Creator",
-  title: "OS Developer & TinyML Engineer",
+  title: "Life Artist && Software Engineer",
   // email: "alex@example.com",
   email: "xinxingwang@acm.com",
   //gitHub: "microsoft",
@@ -37,7 +37,7 @@ const siteProps = {
   linkedIn: "ethanwang999",
   medium: "",
   twitter: "ethanwang969",
-  youTube: "ethanwang999",
+  youTube: "@ethanwang999",
 };
 
 const primaryColor = "#4E567E";
