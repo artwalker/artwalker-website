@@ -26,8 +26,8 @@ const imageAltText = " an abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Software Engineering graduate student at North China Electric Power University. My primary interests lie in the fields of operating systems and TinyML, where I strive to create efficient and innovative solutions.";
-  //"I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Software Engineering graduate student at North China Electric Power University. My primary interests lie in the fields of operating systems , Embedded Development and TinyML, where I strive to create efficient and innovative solutions.";
+//"I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -40,12 +40,10 @@ const skillsList = [
   // "Focus group testing",
   // "Mobile user interfaces",
   // "Graphic design",
-  "Operating Systems Design",
-  "TinyML Development",
   "Embedded Systems Development",
+  "Operating Systems Design",
   "System Architecture",
-  "Machine Learning Applications",
-  "Efficient Computing",
+  "TinyML Development",
 ];
 
 /**
@@ -56,7 +54,7 @@ const skillsList = [
 /** const detailOrQuote =
   "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."; */
 const detailOrQuote =
-  "I am passionate about tackling challenges in the realms of operating system development and TinyML, seeking innovative solutions that push the boundaries of technology. With a background in these areas, I am dedicated to exploring novel methods and advancements that democratize technology accessibility for all.";
+  "I am passionate about tackling challenges in the realms of operating system development , Embedded Development and TinyML, seeking innovative solutions that push the boundaries of technology. With a background in these areas, I am dedicated to exploring novel methods and advancements that democratize technology accessibility for all.";
 
 const About = () => {
   return (
