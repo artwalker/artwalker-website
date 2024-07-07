@@ -59,7 +59,7 @@ const projectList = [
   {
     title: "My Resume World 🎯",
     description:
-      "I mainly depict my personal growth experiences and development journey, believing that \"no one can define you; only you can define yourself.\"",
+      "I mainly depict my personal growth experiences and development journey, believing that \"no one can define you; only you can define yourself\".",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   // {
