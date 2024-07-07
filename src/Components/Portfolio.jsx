@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-//import image from "../images/design-desk.jpeg";
+// import image from "../images/design-desk.jpeg";
 import image from "../images/money-grow.jpg";
 
 // const imageAltText = "desktop with books and laptop";
@@ -51,22 +51,28 @@ const projectList = [
   //   url: "https://github.com/microsoft/web-dev-for-beginners",
   // },
   {
-    title: "Web Development for Beginners",
+    title: "My Vlog World 🪀",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "My YouTube channel chronicles my personal life, profound thoughts, explorations in computer technology, and the journey of teaching guitar and music.",
+    url: "https://www.youtube.com/@ethanwang999",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume World 🎯",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "I mainly depict my personal growth experiences and development journey, believing that \"no one can define you; only you can define yourself.\"",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Career World 🏆",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I work in the computer industry, specializing in software development, while also being active in digital media, guitar, and music.",
+    url: "https://www.linkedin.com/in/ethanwang999/",
   },
 ];
 
