@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://artwalker.github.io/artwalker-website'",
+    "build-gh": "parcel build --public-url 'https://www.novax.fun'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
